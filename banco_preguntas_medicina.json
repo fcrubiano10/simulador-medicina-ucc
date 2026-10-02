@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "area": "Medicina Interna - Cardiología",
+    "pregunta": "[Caso Clínico #1] En relación con el manejo de IAM de cara inferior, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Arteria Coronaria Derecha (ACD)",
+      "B": "Infarto de Ventrículo Derecho e Hipotensión",
+      "C": "Líquidos IV y evitar nitratos/diuréticos",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "En IAM de cara inferior con hipotensión, tomar derivaciones derechas (V3R-V4R) y expandir volumen con cristaloides.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en IAM de cara inferior."
+  },
+  {
+    "id": 2,
+    "area": "Medicina Interna - Cardiología",
+    "pregunta": "[Caso Clínico #2] En relación con el manejo de Fibrilación Auricular con respuesta ventricular rápida e inestabilidad hemodinámica, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Cardioversión eléctrica sincronizada",
+      "B": "Amiodarona IV",
+      "C": "Betabloqueadores VO",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "Paciente inestable hemodinámicamente por taquiarritmia requiere cardioversión eléctrica sincronizada de emergencia.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Fibrilación Auricular con respuesta ventricular rápida e inestabilidad hemodinámica."
+  },
+  {
+    "id": 3,
+    "area": "Medicina Interna - Endocrinología",
+    "pregunta": "[Caso Clínico #3] En relación con el manejo de Cetoacidosis Diabética (CAD), paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Rehidratación con Solución Salina 0.9%",
+      "B": "Insulina cristalina en bolo alto",
+      "C": "Bicarbonato de Sodio de rutina",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "El manejo inicial prioritario en CAD es la hidratación venosa agresiva antes de administrar insulina.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Cetoacidosis Diabética (CAD)."
+  },
+  {
+    "id": 4,
+    "area": "Medicina Interna - Endocrinología",
+    "pregunta": "[Caso Clínico #4] En relación con el manejo de Estado Hiperosmolar Hiperglucémico (EHH), paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Osmolaridad sérica efectiva > 320 mOsm/kg y glucemia > 600 mg/dL",
+      "B": "Acidosis metabólica severa con anión GAP elevado",
+      "C": "Cetonuria masiva ++++",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "El EHH se caracteriza por hiperglucemia severa e hiperosmolaridad con ausencia o mínima cetoacidosis.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Estado Hiperosmolar Hiperglucémico (EHH)."
+  },
+  {
+    "id": 5,
+    "area": "Medicina Interna - Neumología",
+    "pregunta": "[Caso Clínico #5] En relación con el manejo de Crisis de Asma Severa, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Beta-2 agonistas de acción corta (SABA) + Corticoides sistémicos",
+      "B": "Antibióticos de amplio espectro",
+      "C": "Sedación temprana",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "El pilar de la crisis asmática severa es SABA nebulizado/inhalado combinado con corticoide sistémico temprano.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Crisis de Asma Severa."
+  },
+  {
+    "id": 6,
+    "area": "Medicina Interna - Neumología",
+    "pregunta": "[Caso Clínico #6] En relación con el manejo de Exacerbación de EPOC Anthonisen I, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Iniciar antibioticoterapia empírica (ej. Amoxicilina/Clavulanato o Macrólido)",
+      "B": "Solo aumentar dosis de inhaladores",
+      "C": "Oxigenoterapia a alto flujo",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "El tipo Anthonisen I (aumento de disnea, volumen y purulencia del esputo) indica indicación clara de antibiótico.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Exacerbación de EPOC Anthonisen I."
+  },
+  {
+    "id": 7,
+    "area": "Medicina Interna - Infectología",
+    "pregunta": "[Caso Clínico #7] En relación con el manejo de Neumonía Adquirida en la Comunidad (NAC) - CURB-65 = 3 puntos, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Hospitalización en Sala General o UCI según criterios de ATS/IDSA",
+      "B": "Manejo ambulatorio con amoxicilina",
+      "C": "Alta con azitromicina sola",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "Un puntaje de CURB-65 ≥ 2 a 3 indica neumonía moderada a severa que requiere manejo hospitalario.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Neumonía Adquirida en la Comunidad (NAC) - CURB-65 = 3 puntos."
+  },
+  {
+    "id": 8,
+    "area": "Medicina Interna - Infectología",
+    "pregunta": "[Caso Clínico #8] En relación con el manejo de Sepsis / Choque Séptico, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Reanimación con cristaloides 30 mL/kg en las primeras 3 horas + Antibiótico de amplio espectro en la 1ra hora",
+      "B": "Iniciar vasopresores antes de líquidos",
+      "C": "Corticoides a dosis altas",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "El paquete de la primera hora en sepsis exige toma de hemocultivos, antibiótico de amplio espectro y cristaloides a 30 mL/kg.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Sepsis / Choque Séptico."
+  },
+  {
+    "id": 9,
+    "area": "Medicina Interna - Gastroenterología",
+    "pregunta": "[Caso Clínico #9] En relación con el manejo de Hemorragia Digestiva Alta (HDA) variceal, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Somatostatina / Octreótido IV + Endoscopia digestiva en primeras 12-24 horas",
+      "B": "Laparotomía exploradora de urgencia",
+      "C": "Bolo de vasopresina pura",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "En sospecha de sangrado por várices esofágicas en cirróticos, se inicia vasopresor esplácnico (terlipresina u octreótido) e IBPs.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Hemorragia Digestiva Alta (HDA) variceal."
+  },
+  {
+    "id": 10,
+    "area": "Medicina Interna - Gastroenterología",
+    "pregunta": "[Caso Clínico #10] En relación con el manejo de Encefalopatía Hepática, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Lactulosa vía oral / enema + buscar y tratar factor desencadenante",
+      "B": "Restricción severa de proteínas en la dieta",
+      "C": "Neomicina como primera línea aislada",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "La lactulosa disminuye la absorción de amonio entérico y es la primera línea junto a la identificación del gatillo (ej. infección, sangrado).",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Encefalopatía Hepática."
+  },
+  {
+    "id": 11,
+    "area": "Medicina Interna - Nefrología",
+    "pregunta": "[Caso Clínico #11] En relación con el manejo de Hiperkalemia Severa (K > 6.5 mEq/L) con cambios electrocardiográficos (ondas T picudas / ensanchamiento QRS), paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Gluconato de Calcio IV 10% para estabilización de membrana miocárdica",
+      "B": "Furosemida IV únicamente",
+      "C": "Resinas de intercambio iónico a dosis alta",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "Ante cambios electrocardiográficos por hiperkalemia, la prioridad inmediata es el Gluconato de Calcio para proteger el corazón.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Hiperkalemia Severa (K > 6.5 mEq/L) con cambios electrocardiográficos (ondas T picudas / ensanchamiento QRS)."
+  },
+  {
+    "id": 12,
+    "area": "Medicina Interna - Nefrología",
+    "pregunta": "[Caso Clínico #12] En relación con el manejo de Síndrome Nefrótico, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Proteinuria en rango nefrótico (> 3.5 g/24h), hipoalbuminemia, edema y dislipidemia",
+      "B": "Hematuria dismórfica e hipertensión severa como rasgo dominante",
+      "C": "Oliguria aguda con cilindros hemáticos",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "La triada clásica del Síndrome Nefrótico es proteinuria masiva, hipoalbuminemia y edema.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Síndrome Nefrótico."
+  },
+  {
+    "id": 13,
+    "area": "Medicina Interna - Reumatología",
+    "pregunta": "[Caso Clínico #13] En relación con el manejo de Artritis Gotosa Aguda, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "AINEs a dosis altas o Colchicina o Corticoides intraarticulares/sistémicos",
+      "B": "Iniciar Alopurinol inmediatamente a dosis máxima",
+      "C": "Aspirina a dosis bajas",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "Durante el ataque agudo de gota NO se debe iniciar ni modificar la dosis de Alopurinol para evitar fluctuaciones del ácido úrico.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Artritis Gotosa Aguda."
+  },
+  {
+    "id": 14,
+    "area": "Medicina Interna - Reumatología",
+    "pregunta": "[Caso Clínico #14] En relación con el manejo de Lupus Eritematoso Sistémico (LES), paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Anticuerpos Anti-DNAdc y Anti-Smith (altamente específicos)",
+      "B": "Anti-RO y Anti-LA únicamente",
+      "C": "Anticuerpos Anti-centrómero",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "Los anticuerpos Anti-DNAdc correlacionan con actividad lúpica (especialmente nefritis) y el Anti-Smith es el más específico.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Lupus Eritematoso Sistémico (LES)."
+  },
+  {
+    "id": 15,
+    "area": "Medicina Interna - Hematología",
+    "pregunta": "[Caso Clínico #15] En relación con el manejo de Anemia Ferropénica, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Ferritina sérica disminuida (< 30 ng/mL)",
+      "B": "Transferrina disminuida con ferritina alta",
+      "C": "Volumen Corpuscular Medio (VCM) > 100 fL",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "La ferritina sérica baja es el marcador más sensible y específico para diagnosticar deficiencia de hierro.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Anemia Ferropénica."
+  },
+  {
+    "id": 16,
+    "area": "Pediatría - Infectología",
+    "pregunta": "[Caso Clínico #16] En relación con el manejo de Enfermedad de Kawasaki, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Inmunoglobulina IV (2 g/kg) + Ácido Acetilsalicílico (Aspirina)",
+      "B": "Corticoides a dosis altas solos",
+      "C": "Antibióticos de amplio espectro",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "El tratamiento oportuno con Inmunoglobulina IV antes del día 10 reduce drásticamente el riesgo de aneurismas coronarios.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Enfermedad de Kawasaki."
+  },
+  {
+    "id": 17,
+    "area": "Pediatría - Urgencias",
+    "pregunta": "[Caso Clínico #17] En relación con el manejo de Crup Laríngeo (Laringotraqueobronquitis Aguda), paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Dexametasona 0.6 mg/kg VO/IM dosis única",
+      "B": "Salbutamol nebulizado de rutina",
+      "C": "Antibióticos macrólidos",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "La dexametasona en dosis única mejora los síntomas y reduce reingresos en crup leve, moderado y severo.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Crup Laríngeo (Laringotraqueobronquitis Aguda)."
+  },
+  {
+    "id": 18,
+    "area": "Pediatría - Neumología",
+    "pregunta": "[Caso Clínico #18] En relación con el manejo de Bronquiolitis Aguda por VRS, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Medidas de soporte (Oxigenación si SatO2 < 92%, hidratación y aseo nasal)",
+      "B": "Nebulizaciones con Salbutamol",
+      "C": "Corticoides inhalados u orales",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "No hay evidencia que respalde el uso sistemático de broncodilatadores o corticoides en el primer episodio de bronquiolitis.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Bronquiolitis Aguda por VRS."
+  },
+  {
+    "id": 19,
+    "area": "Pediatría - Gastroenterología",
+    "pregunta": "[Caso Clínico #19] En relación con el manejo de Deshidratación Grado II (Moderada) por Gastroenteritis Aguda, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Plan B: Terapia de Rehidratación Oral con SRO a baja osmolaridad (50-100 mL/kg en 4 horas)",
+      "B": "Plan C: Lactato de Ringer IV a 100 mL/kg en 3 horas",
+      "C": "Líquidos caseros como jugos azucarados",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "El Plan B de OMS utiliza Suero de Rehidratación Oral en consulta/urgencias bajo supervisión.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Deshidratación Grado II (Moderada) por Gastroenteritis Aguda."
+  },
+  {
+    "id": 20,
+    "area": "Pediatría - Infectología",
+    "pregunta": "[Caso Clínico #20] En relación con el manejo de Sepsis Neonatal Temprana (< 72 horas), paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Ampicilina + Gentamicina (cobertura para Streptococcus agalactiae y E. coli)",
+      "B": "Vancomicina + Meropenem de entrada",
+      "C": "Cefriaxona monoterapia",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "La cefriaxona está contraindicada en neonatos por riesgo de kernicterus e interacción con calcio.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Sepsis Neonatal Temprana (< 72 horas)."
+  },
+  {
+    "id": 21,
+    "area": "Ginecología y Obstetricia - Obstetricia",
+    "pregunta": "[Caso Clínico #21] En relación con el manejo de Preeclampsia con Criterios de Severidad, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Sulfato de Magnesio (Dosis de ataque 4g IV) para neuroprotección/prevención de eclampsia",
+      "B": "Labetalol IV como anticonvulsivante",
+      "C": "Inducción inmediata del parto sin estabilizar",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "El Sulfato de Magnesio es la droga de elección para prevenir las convulsiones eclámpticas.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Preeclampsia con Criterios de Severidad."
+  },
+  {
+    "id": 22,
+    "area": "Ginecología y Obstetricia - Obstetricia",
+    "pregunta": "[Caso Clínico #22] En relación con el manejo de Hemorragia Postparto (HPP) por Atonía Uterina, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Masaje uterino bimanual + Oxitocina IV + Ácido Tranexámico dentro de las primeras 3 horas",
+      "B": "Histerectomía obstétrica inmediata",
+      "C": "Taponamiento uterino antes de oxitócicos",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "La primera causa de HPP es la atonía uterina (regla de las 4T: Tono) y se maneja con oxitócicos y masaje.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Hemorragia Postparto (HPP) por Atonía Uterina."
+  },
+  {
+    "id": 23,
+    "area": "Ginecología y Obstetricia - Obstetricia",
+    "pregunta": "[Caso Clínico #23] En relación con el manejo de Ruptura Prematura de Membranas (RPM) a las 31 semanas, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Manejo conservador: Corticoides para maduración pulmonar + Latencia antibiótica (Ampicilina + Eritromicina)",
+      "B": "Desembarazar de inmediato por cesárea",
+      "C": "Tocolisis prolongada por más de 7 días",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "Entre las 24 y 34 semanas sin infección ni compromiso fetal, se busca ganar madurez pulmonar con corticoides y antibióticos.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Ruptura Prematura de Membranas (RPM) a las 31 semanas."
+  },
+  {
+    "id": 24,
+    "area": "Ginecología y Obstetricia - Ginecología",
+    "pregunta": "[Caso Clínico #24] En relación con el manejo de Embarazo Ectópico no roto en paciente estable (Masa < 3.5 cm, B-hCG < 5.000), paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Manejo médico con Metotrexato IM",
+      "B": "Laparotomía exploradora de urgencia",
+      "C": "Legrado uterino instrumental",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "En paciente hemodinámicamente estable con criterios de elegibilidad, el Metotrexato evita la cirugía.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Embarazo Ectópico no roto en paciente estable (Masa < 3.5 cm, B-hCG < 5.000)."
+  },
+  {
+    "id": 25,
+    "area": "Cirugía General - Abdomen Agudo",
+    "pregunta": "[Caso Clínico #25] En relación con el manejo de Apendicitis Aguda, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Diagnóstico clínico + Valoración por Cirugía para Apendicectomía",
+      "B": "Tratamiento médico exclusivo con amoxicilina",
+      "C": "Urotac en todos los casos masculinos jóvenes",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "La apendicitis es la causa quirúrgica más frecuente de abdomen agudo. En jóvenes el diagnóstico es eminentemente clínico.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Apendicitis Aguda."
+  },
+  {
+    "id": 26,
+    "area": "Cirugía General - Vías Biliares",
+    "pregunta": "[Caso Clínico #26] En relación con el manejo de Colecistitis Aguda, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Ecografía hepatobiliar (Engrosamiento de pared > 4mm, líquido pericolecístico, Murphy ecográfico)",
+      "B": "Tomografía de abdomen simple",
+      "C": "Cistografía",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "La ecografía de abdomen superior es el estudio de elección inicial con mayor sensibilidad y especificidad para colecistitis.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Colecistitis Aguda."
+  },
+  {
+    "id": 27,
+    "area": "Cirugía General - Trauma",
+    "pregunta": "[Caso Clínico #27] En relación con el manejo de Neumotórax a Tensión, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Descompresión inmediata con aguja en 2do espacio intercostal línea medioclavicular o 5to espacio línea axilar anterior",
+      "B": "Esperar Radiografía de Tórax de control",
+      "C": "Intubación orotraqueal inmediata sin descomprimir",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "El neumotórax a tensión es un diagnóstico CLÍNICO y una emergencia médica que no requiere confirmación radiológica previa a descompresión.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Neumotórax a Tensión."
+  },
+  {
+    "id": 28,
+    "area": "Medicina Interna - Cardiología",
+    "pregunta": "[Caso Clínico #28] En relación con el manejo de IAM de cara inferior, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Arteria Coronaria Derecha (ACD)",
+      "B": "Infarto de Ventrículo Derecho e Hipotensión",
+      "C": "Líquidos IV y evitar nitratos/diuréticos",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "En IAM de cara inferior con hipotensión, tomar derivaciones derechas (V3R-V4R) y expandir volumen con cristaloides.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en IAM de cara inferior."
+  },
+  {
+    "id": 29,
+    "area": "Medicina Interna - Cardiología",
+    "pregunta": "[Caso Clínico #29] En relación con el manejo de Fibrilación Auricular con respuesta ventricular rápida e inestabilidad hemodinámica, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Cardioversión eléctrica sincronizada",
+      "B": "Amiodarona IV",
+      "C": "Betabloqueadores VO",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "Paciente inestable hemodinámicamente por taquiarritmia requiere cardioversión eléctrica sincronizada de emergencia.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Fibrilación Auricular con respuesta ventricular rápida e inestabilidad hemodinámica."
+  },
+  {
+    "id": 30,
+    "area": "Medicina Interna - Endocrinología",
+    "pregunta": "[Caso Clínico #30] En relación con el manejo de Cetoacidosis Diabética (CAD), paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Rehidratación con Solución Salina 0.9%",
+      "B": "Insulina cristalina en bolo alto",
+      "C": "Bicarbonato de Sodio de rutina",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "El manejo inicial prioritario en CAD es la hidratación venosa agresiva antes de administrar insulina.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Cetoacidosis Diabética (CAD)."
+  },
+  {
+    "id": 31,
+    "area": "Medicina Interna - Endocrinología",
+    "pregunta": "[Caso Clínico #31] En relación con el manejo de Estado Hiperosmolar Hiperglucémico (EHH), paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Osmolaridad sérica efectiva > 320 mOsm/kg y glucemia > 600 mg/dL",
+      "B": "Acidosis metabólica severa con anión GAP elevado",
+      "C": "Cetonuria masiva ++++",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "El EHH se caracteriza por hiperglucemia severa e hiperosmolaridad con ausencia o mínima cetoacidosis.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Estado Hiperosmolar Hiperglucémico (EHH)."
+  },
+  {
+    "id": 32,
+    "area": "Medicina Interna - Neumología",
+    "pregunta": "[Caso Clínico #32] En relación con el manejo de Crisis de Asma Severa, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Beta-2 agonistas de acción corta (SABA) + Corticoides sistémicos",
+      "B": "Antibióticos de amplio espectro",
+      "C": "Sedación temprana",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "El pilar de la crisis asmática severa es SABA nebulizado/inhalado combinado con corticoide sistémico temprano.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Crisis de Asma Severa."
+  },
+  {
+    "id": 33,
+    "area": "Medicina Interna - Neumología",
+    "pregunta": "[Caso Clínico #33] En relación con el manejo de Exacerbación de EPOC Anthonisen I, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Iniciar antibioticoterapia empírica (ej. Amoxicilina/Clavulanato o Macrólido)",
+      "B": "Solo aumentar dosis de inhaladores",
+      "C": "Oxigenoterapia a alto flujo",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "El tipo Anthonisen I (aumento de disnea, volumen y purulencia del esputo) indica indicación clara de antibiótico.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Exacerbación de EPOC Anthonisen I."
+  },
+  {
+    "id": 34,
+    "area": "Medicina Interna - Infectología",
+    "pregunta": "[Caso Clínico #34] En relación con el manejo de Neumonía Adquirida en la Comunidad (NAC) - CURB-65 = 3 puntos, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Hospitalización en Sala General o UCI según criterios de ATS/IDSA",
+      "B": "Manejo ambulatorio con amoxicilina",
+      "C": "Alta con azitromicina sola",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "Un puntaje de CURB-65 ≥ 2 a 3 indica neumonía moderada a severa que requiere manejo hospitalario.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Neumonía Adquirida en la Comunidad (NAC) - CURB-65 = 3 puntos."
+  },
+  {
+    "id": 35,
+    "area": "Medicina Interna - Infectología",
+    "pregunta": "[Caso Clínico #35] En relación con el manejo de Sepsis / Choque Séptico, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Reanimación con cristaloides 30 mL/kg en las primeras 3 horas + Antibiótico de amplio espectro en la 1ra hora",
+      "B": "Iniciar vasopresores antes de líquidos",
+      "C": "Corticoides a dosis altas",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "El paquete de la primera hora en sepsis exige toma de hemocultivos, antibiótico de amplio espectro y cristaloides a 30 mL/kg.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Sepsis / Choque Séptico."
+  },
+  {
+    "id": 36,
+    "area": "Medicina Interna - Gastroenterología",
+    "pregunta": "[Caso Clínico #36] En relación con el manejo de Hemorragia Digestiva Alta (HDA) variceal, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Somatostatina / Octreótido IV + Endoscopia digestiva en primeras 12-24 horas",
+      "B": "Laparotomía exploradora de urgencia",
+      "C": "Bolo de vasopresina pura",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "En sospecha de sangrado por várices esofágicas en cirróticos, se inicia vasopresor esplácnico (terlipresina u octreótido) e IBPs.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Hemorragia Digestiva Alta (HDA) variceal."
+  },
+  {
+    "id": 37,
+    "area": "Medicina Interna - Gastroenterología",
+    "pregunta": "[Caso Clínico #37] En relación con el manejo de Encefalopatía Hepática, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Lactulosa vía oral / enema + buscar y tratar factor desencadenante",
+      "B": "Restricción severa de proteínas en la dieta",
+      "C": "Neomicina como primera línea aislada",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "La lactulosa disminuye la absorción de amonio entérico y es la primera línea junto a la identificación del gatillo (ej. infección, sangrado).",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Encefalopatía Hepática."
+  },
+  {
+    "id": 38,
+    "area": "Medicina Interna - Nefrología",
+    "pregunta": "[Caso Clínico #38] En relación con el manejo de Hiperkalemia Severa (K > 6.5 mEq/L) con cambios electrocardiográficos (ondas T picudas / ensanchamiento QRS), paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Gluconato de Calcio IV 10% para estabilización de membrana miocárdica",
+      "B": "Furosemida IV únicamente",
+      "C": "Resinas de intercambio iónico a dosis alta",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "Ante cambios electrocardiográficos por hiperkalemia, la prioridad inmediata es el Gluconato de Calcio para proteger el corazón.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Hiperkalemia Severa (K > 6.5 mEq/L) con cambios electrocardiográficos (ondas T picudas / ensanchamiento QRS)."
+  },
+  {
+    "id": 39,
+    "area": "Medicina Interna - Nefrología",
+    "pregunta": "[Caso Clínico #39] En relación con el manejo de Síndrome Nefrótico, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Proteinuria en rango nefrótico (> 3.5 g/24h), hipoalbuminemia, edema y dislipidemia",
+      "B": "Hematuria dismórfica e hipertensión severa como rasgo dominante",
+      "C": "Oliguria aguda con cilindros hemáticos",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "La triada clásica del Síndrome Nefrótico es proteinuria masiva, hipoalbuminemia y edema.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Síndrome Nefrótico."
+  },
+  {
+    "id": 40,
+    "area": "Medicina Interna - Reumatología",
+    "pregunta": "[Caso Clínico #40] En relación con el manejo de Artritis Gotosa Aguda, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "AINEs a dosis altas o Colchicina o Corticoides intraarticulares/sistémicos",
+      "B": "Iniciar Alopurinol inmediatamente a dosis máxima",
+      "C": "Aspirina a dosis bajas",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "Durante el ataque agudo de gota NO se debe iniciar ni modificar la dosis de Alopurinol para evitar fluctuaciones del ácido úrico.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Artritis Gotosa Aguda."
+  },
+  {
+    "id": 41,
+    "area": "Medicina Interna - Reumatología",
+    "pregunta": "[Caso Clínico #41] En relación con el manejo de Lupus Eritematoso Sistémico (LES), paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Anticuerpos Anti-DNAdc y Anti-Smith (altamente específicos)",
+      "B": "Anti-RO y Anti-LA únicamente",
+      "C": "Anticuerpos Anti-centrómero",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "Los anticuerpos Anti-DNAdc correlacionan con actividad lúpica (especialmente nefritis) y el Anti-Smith es el más específico.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Lupus Eritematoso Sistémico (LES)."
+  },
+  {
+    "id": 42,
+    "area": "Medicina Interna - Hematología",
+    "pregunta": "[Caso Clínico #42] En relación con el manejo de Anemia Ferropénica, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Ferritina sérica disminuida (< 30 ng/mL)",
+      "B": "Transferrina disminuida con ferritina alta",
+      "C": "Volumen Corpuscular Medio (VCM) > 100 fL",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "La ferritina sérica baja es el marcador más sensible y específico para diagnosticar deficiencia de hierro.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Anemia Ferropénica."
+  },
+  {
+    "id": 43,
+    "area": "Pediatría - Infectología",
+    "pregunta": "[Caso Clínico #43] En relación con el manejo de Enfermedad de Kawasaki, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Inmunoglobulina IV (2 g/kg) + Ácido Acetilsalicílico (Aspirina)",
+      "B": "Corticoides a dosis altas solos",
+      "C": "Antibióticos de amplio espectro",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "El tratamiento oportuno con Inmunoglobulina IV antes del día 10 reduce drásticamente el riesgo de aneurismas coronarios.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Enfermedad de Kawasaki."
+  },
+  {
+    "id": 44,
+    "area": "Pediatría - Urgencias",
+    "pregunta": "[Caso Clínico #44] En relación con el manejo de Crup Laríngeo (Laringotraqueobronquitis Aguda), paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Dexametasona 0.6 mg/kg VO/IM dosis única",
+      "B": "Salbutamol nebulizado de rutina",
+      "C": "Antibióticos macrólidos",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "La dexametasona en dosis única mejora los síntomas y reduce reingresos en crup leve, moderado y severo.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Crup Laríngeo (Laringotraqueobronquitis Aguda)."
+  },
+  {
+    "id": 45,
+    "area": "Pediatría - Neumología",
+    "pregunta": "[Caso Clínico #45] En relación con el manejo de Bronquiolitis Aguda por VRS, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Medidas de soporte (Oxigenación si SatO2 < 92%, hidratación y aseo nasal)",
+      "B": "Nebulizaciones con Salbutamol",
+      "C": "Corticoides inhalados u orales",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "No hay evidencia que respalde el uso sistemático de broncodilatadores o corticoides en el primer episodio de bronquiolitis.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Bronquiolitis Aguda por VRS."
+  },
+  {
+    "id": 46,
+    "area": "Pediatría - Gastroenterología",
+    "pregunta": "[Caso Clínico #46] En relación con el manejo de Deshidratación Grado II (Moderada) por Gastroenteritis Aguda, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Plan B: Terapia de Rehidratación Oral con SRO a baja osmolaridad (50-100 mL/kg en 4 horas)",
+      "B": "Plan C: Lactato de Ringer IV a 100 mL/kg en 3 horas",
+      "C": "Líquidos caseros como jugos azucarados",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "El Plan B de OMS utiliza Suero de Rehidratación Oral en consulta/urgencias bajo supervisión.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Deshidratación Grado II (Moderada) por Gastroenteritis Aguda."
+  },
+  {
+    "id": 47,
+    "area": "Pediatría - Infectología",
+    "pregunta": "[Caso Clínico #47] En relación con el manejo de Sepsis Neonatal Temprana (< 72 horas), paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Ampicilina + Gentamicina (cobertura para Streptococcus agalactiae y E. coli)",
+      "B": "Vancomicina + Meropenem de entrada",
+      "C": "Cefriaxona monoterapia",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "La cefriaxona está contraindicada en neonatos por riesgo de kernicterus e interacción con calcio.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Sepsis Neonatal Temprana (< 72 horas)."
+  },
+  {
+    "id": 48,
+    "area": "Ginecología y Obstetricia - Obstetricia",
+    "pregunta": "[Caso Clínico #48] En relación con el manejo de Preeclampsia con Criterios de Severidad, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Sulfato de Magnesio (Dosis de ataque 4g IV) para neuroprotección/prevención de eclampsia",
+      "B": "Labetalol IV como anticonvulsivante",
+      "C": "Inducción inmediata del parto sin estabilizar",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "El Sulfato de Magnesio es la droga de elección para prevenir las convulsiones eclámpticas.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Preeclampsia con Criterios de Severidad."
+  },
+  {
+    "id": 49,
+    "area": "Ginecología y Obstetricia - Obstetricia",
+    "pregunta": "[Caso Clínico #49] En relación con el manejo de Hemorragia Postparto (HPP) por Atonía Uterina, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Masaje uterino bimanual + Oxitocina IV + Ácido Tranexámico dentro de las primeras 3 horas",
+      "B": "Histerectomía obstétrica inmediata",
+      "C": "Taponamiento uterino antes de oxitócicos",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "La primera causa de HPP es la atonía uterina (regla de las 4T: Tono) y se maneja con oxitócicos y masaje.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Hemorragia Postparto (HPP) por Atonía Uterina."
+  },
+  {
+    "id": 50,
+    "area": "Ginecología y Obstetricia - Obstetricia",
+    "pregunta": "[Caso Clínico #50] En relación con el manejo de Ruptura Prematura de Membranas (RPM) a las 31 semanas, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Manejo conservador: Corticoides para maduración pulmonar + Latencia antibiótica (Ampicilina + Eritromicina)",
+      "B": "Desembarazar de inmediato por cesárea",
+      "C": "Tocolisis prolongada por más de 7 días",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "Entre las 24 y 34 semanas sin infección ni compromiso fetal, se busca ganar madurez pulmonar con corticoides y antibióticos.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Ruptura Prematura de Membranas (RPM) a las 31 semanas."
+  },
+  {
+    "id": 51,
+    "area": "Ginecología y Obstetricia - Ginecología",
+    "pregunta": "[Caso Clínico #51] En relación con el manejo de Embarazo Ectópico no roto en paciente estable (Masa < 3.5 cm, B-hCG < 5.000), paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Manejo médico con Metotrexato IM",
+      "B": "Laparotomía exploradora de urgencia",
+      "C": "Legrado uterino instrumental",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "En paciente hemodinámicamente estable con criterios de elegibilidad, el Metotrexato evita la cirugía.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Embarazo Ectópico no roto en paciente estable (Masa < 3.5 cm, B-hCG < 5.000)."
+  },
+  {
+    "id": 52,
+    "area": "Cirugía General - Abdomen Agudo",
+    "pregunta": "[Caso Clínico #52] En relación con el manejo de Apendicitis Aguda, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Diagnóstico clínico + Valoración por Cirugía para Apendicectomía",
+      "B": "Tratamiento médico exclusivo con amoxicilina",
+      "C": "Urotac en todos los casos masculinos jóvenes",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "La apendicitis es la causa quirúrgica más frecuente de abdomen agudo. En jóvenes el diagnóstico es eminentemente clínico.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Apendicitis Aguda."
+  },
+  {
+    "id": 53,
+    "area": "Cirugía General - Vías Biliares",
+    "pregunta": "[Caso Clínico #53] En relación con el manejo de Colecistitis Aguda, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Ecografía hepatobiliar (Engrosamiento de pared > 4mm, líquido pericolecístico, Murphy ecográfico)",
+      "B": "Tomografía de abdomen simple",
+      "C": "Cistografía",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "La ecografía de abdomen superior es el estudio de elección inicial con mayor sensibilidad y especificidad para colecistitis.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Colecistitis Aguda."
+  },
+  {
+    "id": 54,
+    "area": "Cirugía General - Trauma",
+    "pregunta": "[Caso Clínico #54] En relación con el manejo de Neumotórax a Tensión, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Descompresión inmediata con aguja en 2do espacio intercostal línea medioclavicular o 5to espacio línea axilar anterior",
+      "B": "Esperar Radiografía de Tórax de control",
+      "C": "Intubación orotraqueal inmediata sin descomprimir",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "El neumotórax a tensión es un diagnóstico CLÍNICO y una emergencia médica que no requiere confirmación radiológica previa a descompresión.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Neumotórax a Tensión."
+  },
+  {
+    "id": 55,
+    "area": "Medicina Interna - Cardiología",
+    "pregunta": "[Caso Clínico #55] En relación con el manejo de IAM de cara inferior, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Arteria Coronaria Derecha (ACD)",
+      "B": "Infarto de Ventrículo Derecho e Hipotensión",
+      "C": "Líquidos IV y evitar nitratos/diuréticos",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "En IAM de cara inferior con hipotensión, tomar derivaciones derechas (V3R-V4R) y expandir volumen con cristaloides.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en IAM de cara inferior."
+  },
+  {
+    "id": 56,
+    "area": "Medicina Interna - Cardiología",
+    "pregunta": "[Caso Clínico #56] En relación con el manejo de Fibrilación Auricular con respuesta ventricular rápida e inestabilidad hemodinámica, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Cardioversión eléctrica sincronizada",
+      "B": "Amiodarona IV",
+      "C": "Betabloqueadores VO",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "Paciente inestable hemodinámicamente por taquiarritmia requiere cardioversión eléctrica sincronizada de emergencia.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Fibrilación Auricular con respuesta ventricular rápida e inestabilidad hemodinámica."
+  },
+  {
+    "id": 57,
+    "area": "Medicina Interna - Endocrinología",
+    "pregunta": "[Caso Clínico #57] En relación con el manejo de Cetoacidosis Diabética (CAD), paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Rehidratación con Solución Salina 0.9%",
+      "B": "Insulina cristalina en bolo alto",
+      "C": "Bicarbonato de Sodio de rutina",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "El manejo inicial prioritario en CAD es la hidratación venosa agresiva antes de administrar insulina.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Cetoacidosis Diabética (CAD)."
+  },
+  {
+    "id": 58,
+    "area": "Medicina Interna - Endocrinología",
+    "pregunta": "[Caso Clínico #58] En relación con el manejo de Estado Hiperosmolar Hiperglucémico (EHH), paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Osmolaridad sérica efectiva > 320 mOsm/kg y glucemia > 600 mg/dL",
+      "B": "Acidosis metabólica severa con anión GAP elevado",
+      "C": "Cetonuria masiva ++++",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "El EHH se caracteriza por hiperglucemia severa e hiperosmolaridad con ausencia o mínima cetoacidosis.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Estado Hiperosmolar Hiperglucémico (EHH)."
+  },
+  {
+    "id": 59,
+    "area": "Medicina Interna - Neumología",
+    "pregunta": "[Caso Clínico #59] En relación con el manejo de Crisis de Asma Severa, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Beta-2 agonistas de acción corta (SABA) + Corticoides sistémicos",
+      "B": "Antibióticos de amplio espectro",
+      "C": "Sedación temprana",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "El pilar de la crisis asmática severa es SABA nebulizado/inhalado combinado con corticoide sistémico temprano.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Crisis de Asma Severa."
+  },
+  {
+    "id": 60,
+    "area": "Medicina Interna - Neumología",
+    "pregunta": "[Caso Clínico #60] En relación con el manejo de Exacerbación de EPOC Anthonisen I, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Iniciar antibioticoterapia empírica (ej. Amoxicilina/Clavulanato o Macrólido)",
+      "B": "Solo aumentar dosis de inhaladores",
+      "C": "Oxigenoterapia a alto flujo",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "El tipo Anthonisen I (aumento de disnea, volumen y purulencia del esputo) indica indicación clara de antibiótico.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Exacerbación de EPOC Anthonisen I."
+  },
+  {
+    "id": 61,
+    "area": "Medicina Interna - Infectología",
+    "pregunta": "[Caso Clínico #61] En relación con el manejo de Neumonía Adquirida en la Comunidad (NAC) - CURB-65 = 3 puntos, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Hospitalización en Sala General o UCI según criterios de ATS/IDSA",
+      "B": "Manejo ambulatorio con amoxicilina",
+      "C": "Alta con azitromicina sola",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "Un puntaje de CURB-65 ≥ 2 a 3 indica neumonía moderada a severa que requiere manejo hospitalario.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Neumonía Adquirida en la Comunidad (NAC) - CURB-65 = 3 puntos."
+  },
+  {
+    "id": 62,
+    "area": "Medicina Interna - Infectología",
+    "pregunta": "[Caso Clínico #62] En relación con el manejo de Sepsis / Choque Séptico, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Reanimación con cristaloides 30 mL/kg en las primeras 3 horas + Antibiótico de amplio espectro en la 1ra hora",
+      "B": "Iniciar vasopresores antes de líquidos",
+      "C": "Corticoides a dosis altas",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "El paquete de la primera hora en sepsis exige toma de hemocultivos, antibiótico de amplio espectro y cristaloides a 30 mL/kg.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Sepsis / Choque Séptico."
+  },
+  {
+    "id": 63,
+    "area": "Medicina Interna - Gastroenterología",
+    "pregunta": "[Caso Clínico #63] En relación con el manejo de Hemorragia Digestiva Alta (HDA) variceal, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Somatostatina / Octreótido IV + Endoscopia digestiva en primeras 12-24 horas",
+      "B": "Laparotomía exploradora de urgencia",
+      "C": "Bolo de vasopresina pura",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "En sospecha de sangrado por várices esofágicas en cirróticos, se inicia vasopresor esplácnico (terlipresina u octreótido) e IBPs.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Hemorragia Digestiva Alta (HDA) variceal."
+  },
+  {
+    "id": 64,
+    "area": "Medicina Interna - Gastroenterología",
+    "pregunta": "[Caso Clínico #64] En relación con el manejo de Encefalopatía Hepática, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Lactulosa vía oral / enema + buscar y tratar factor desencadenante",
+      "B": "Restricción severa de proteínas en la dieta",
+      "C": "Neomicina como primera línea aislada",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "La lactulosa disminuye la absorción de amonio entérico y es la primera línea junto a la identificación del gatillo (ej. infección, sangrado).",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Encefalopatía Hepática."
+  },
+  {
+    "id": 65,
+    "area": "Medicina Interna - Nefrología",
+    "pregunta": "[Caso Clínico #65] En relación con el manejo de Hiperkalemia Severa (K > 6.5 mEq/L) con cambios electrocardiográficos (ondas T picudas / ensanchamiento QRS), paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Gluconato de Calcio IV 10% para estabilización de membrana miocárdica",
+      "B": "Furosemida IV únicamente",
+      "C": "Resinas de intercambio iónico a dosis alta",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "Ante cambios electrocardiográficos por hiperkalemia, la prioridad inmediata es el Gluconato de Calcio para proteger el corazón.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Hiperkalemia Severa (K > 6.5 mEq/L) con cambios electrocardiográficos (ondas T picudas / ensanchamiento QRS)."
+  },
+  {
+    "id": 66,
+    "area": "Medicina Interna - Nefrología",
+    "pregunta": "[Caso Clínico #66] En relación con el manejo de Síndrome Nefrótico, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Proteinuria en rango nefrótico (> 3.5 g/24h), hipoalbuminemia, edema y dislipidemia",
+      "B": "Hematuria dismórfica e hipertensión severa como rasgo dominante",
+      "C": "Oliguria aguda con cilindros hemáticos",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "La triada clásica del Síndrome Nefrótico es proteinuria masiva, hipoalbuminemia y edema.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Síndrome Nefrótico."
+  },
+  {
+    "id": 67,
+    "area": "Medicina Interna - Reumatología",
+    "pregunta": "[Caso Clínico #67] En relación con el manejo de Artritis Gotosa Aguda, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "AINEs a dosis altas o Colchicina o Corticoides intraarticulares/sistémicos",
+      "B": "Iniciar Alopurinol inmediatamente a dosis máxima",
+      "C": "Aspirina a dosis bajas",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "Durante el ataque agudo de gota NO se debe iniciar ni modificar la dosis de Alopurinol para evitar fluctuaciones del ácido úrico.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Artritis Gotosa Aguda."
+  },
+  {
+    "id": 68,
+    "area": "Medicina Interna - Reumatología",
+    "pregunta": "[Caso Clínico #68] En relación con el manejo de Lupus Eritematoso Sistémico (LES), paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Anticuerpos Anti-DNAdc y Anti-Smith (altamente específicos)",
+      "B": "Anti-RO y Anti-LA únicamente",
+      "C": "Anticuerpos Anti-centrómero",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "Los anticuerpos Anti-DNAdc correlacionan con actividad lúpica (especialmente nefritis) y el Anti-Smith es el más específico.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Lupus Eritematoso Sistémico (LES)."
+  },
+  {
+    "id": 69,
+    "area": "Medicina Interna - Hematología",
+    "pregunta": "[Caso Clínico #69] En relación con el manejo de Anemia Ferropénica, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Ferritina sérica disminuida (< 30 ng/mL)",
+      "B": "Transferrina disminuida con ferritina alta",
+      "C": "Volumen Corpuscular Medio (VCM) > 100 fL",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "La ferritina sérica baja es el marcador más sensible y específico para diagnosticar deficiencia de hierro.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Anemia Ferropénica."
+  },
+  {
+    "id": 70,
+    "area": "Pediatría - Infectología",
+    "pregunta": "[Caso Clínico #70] En relación con el manejo de Enfermedad de Kawasaki, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Inmunoglobulina IV (2 g/kg) + Ácido Acetilsalicílico (Aspirina)",
+      "B": "Corticoides a dosis altas solos",
+      "C": "Antibióticos de amplio espectro",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "El tratamiento oportuno con Inmunoglobulina IV antes del día 10 reduce drásticamente el riesgo de aneurismas coronarios.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Enfermedad de Kawasaki."
+  },
+  {
+    "id": 71,
+    "area": "Pediatría - Urgencias",
+    "pregunta": "[Caso Clínico #71] En relación con el manejo de Crup Laríngeo (Laringotraqueobronquitis Aguda), paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Dexametasona 0.6 mg/kg VO/IM dosis única",
+      "B": "Salbutamol nebulizado de rutina",
+      "C": "Antibióticos macrólidos",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "La dexametasona en dosis única mejora los síntomas y reduce reingresos en crup leve, moderado y severo.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Crup Laríngeo (Laringotraqueobronquitis Aguda)."
+  },
+  {
+    "id": 72,
+    "area": "Pediatría - Neumología",
+    "pregunta": "[Caso Clínico #72] En relación con el manejo de Bronquiolitis Aguda por VRS, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Medidas de soporte (Oxigenación si SatO2 < 92%, hidratación y aseo nasal)",
+      "B": "Nebulizaciones con Salbutamol",
+      "C": "Corticoides inhalados u orales",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "No hay evidencia que respalde el uso sistemático de broncodilatadores o corticoides en el primer episodio de bronquiolitis.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Bronquiolitis Aguda por VRS."
+  },
+  {
+    "id": 73,
+    "area": "Pediatría - Gastroenterología",
+    "pregunta": "[Caso Clínico #73] En relación con el manejo de Deshidratación Grado II (Moderada) por Gastroenteritis Aguda, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Plan B: Terapia de Rehidratación Oral con SRO a baja osmolaridad (50-100 mL/kg en 4 horas)",
+      "B": "Plan C: Lactato de Ringer IV a 100 mL/kg en 3 horas",
+      "C": "Líquidos caseros como jugos azucarados",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "El Plan B de OMS utiliza Suero de Rehidratación Oral en consulta/urgencias bajo supervisión.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Deshidratación Grado II (Moderada) por Gastroenteritis Aguda."
+  },
+  {
+    "id": 74,
+    "area": "Pediatría - Infectología",
+    "pregunta": "[Caso Clínico #74] En relación con el manejo de Sepsis Neonatal Temprana (< 72 horas), paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Ampicilina + Gentamicina (cobertura para Streptococcus agalactiae y E. coli)",
+      "B": "Vancomicina + Meropenem de entrada",
+      "C": "Cefriaxona monoterapia",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "La cefriaxona está contraindicada en neonatos por riesgo de kernicterus e interacción con calcio.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Sepsis Neonatal Temprana (< 72 horas)."
+  },
+  {
+    "id": 75,
+    "area": "Ginecología y Obstetricia - Obstetricia",
+    "pregunta": "[Caso Clínico #75] En relación con el manejo de Preeclampsia con Criterios de Severidad, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Sulfato de Magnesio (Dosis de ataque 4g IV) para neuroprotección/prevención de eclampsia",
+      "B": "Labetalol IV como anticonvulsivante",
+      "C": "Inducción inmediata del parto sin estabilizar",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "El Sulfato de Magnesio es la droga de elección para prevenir las convulsiones eclámpticas.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Preeclampsia con Criterios de Severidad."
+  },
+  {
+    "id": 76,
+    "area": "Ginecología y Obstetricia - Obstetricia",
+    "pregunta": "[Caso Clínico #76] En relación con el manejo de Hemorragia Postparto (HPP) por Atonía Uterina, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Masaje uterino bimanual + Oxitocina IV + Ácido Tranexámico dentro de las primeras 3 horas",
+      "B": "Histerectomía obstétrica inmediata",
+      "C": "Taponamiento uterino antes de oxitócicos",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "La primera causa de HPP es la atonía uterina (regla de las 4T: Tono) y se maneja con oxitócicos y masaje.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Hemorragia Postparto (HPP) por Atonía Uterina."
+  },
+  {
+    "id": 77,
+    "area": "Ginecología y Obstetricia - Obstetricia",
+    "pregunta": "[Caso Clínico #77] En relación con el manejo de Ruptura Prematura de Membranas (RPM) a las 31 semanas, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Manejo conservador: Corticoides para maduración pulmonar + Latencia antibiótica (Ampicilina + Eritromicina)",
+      "B": "Desembarazar de inmediato por cesárea",
+      "C": "Tocolisis prolongada por más de 7 días",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "Entre las 24 y 34 semanas sin infección ni compromiso fetal, se busca ganar madurez pulmonar con corticoides y antibióticos.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Ruptura Prematura de Membranas (RPM) a las 31 semanas."
+  },
+  {
+    "id": 78,
+    "area": "Ginecología y Obstetricia - Ginecología",
+    "pregunta": "[Caso Clínico #78] En relación con el manejo de Embarazo Ectópico no roto en paciente estable (Masa < 3.5 cm, B-hCG < 5.000), paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Manejo médico con Metotrexato IM",
+      "B": "Laparotomía exploradora de urgencia",
+      "C": "Legrado uterino instrumental",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "En paciente hemodinámicamente estable con criterios de elegibilidad, el Metotrexato evita la cirugía.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Embarazo Ectópico no roto en paciente estable (Masa < 3.5 cm, B-hCG < 5.000)."
+  },
+  {
+    "id": 79,
+    "area": "Cirugía General - Abdomen Agudo",
+    "pregunta": "[Caso Clínico #79] En relación con el manejo de Apendicitis Aguda, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Diagnóstico clínico + Valoración por Cirugía para Apendicectomía",
+      "B": "Tratamiento médico exclusivo con amoxicilina",
+      "C": "Urotac en todos los casos masculinos jóvenes",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "La apendicitis es la causa quirúrgica más frecuente de abdomen agudo. En jóvenes el diagnóstico es eminentemente clínico.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Apendicitis Aguda."
+  },
+  {
+    "id": 80,
+    "area": "Cirugía General - Vías Biliares",
+    "pregunta": "[Caso Clínico #80] En relación con el manejo de Colecistitis Aguda, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Ecografía hepatobiliar (Engrosamiento de pared > 4mm, líquido pericolecístico, Murphy ecográfico)",
+      "B": "Tomografía de abdomen simple",
+      "C": "Cistografía",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "La ecografía de abdomen superior es el estudio de elección inicial con mayor sensibilidad y especificidad para colecistitis.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Colecistitis Aguda."
+  },
+  {
+    "id": 81,
+    "area": "Cirugía General - Trauma",
+    "pregunta": "[Caso Clínico #81] En relación con el manejo de Neumotórax a Tensión, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Descompresión inmediata con aguja en 2do espacio intercostal línea medioclavicular o 5to espacio línea axilar anterior",
+      "B": "Esperar Radiografía de Tórax de control",
+      "C": "Intubación orotraqueal inmediata sin descomprimir",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "El neumotórax a tensión es un diagnóstico CLÍNICO y una emergencia médica que no requiere confirmación radiológica previa a descompresión.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Neumotórax a Tensión."
+  },
+  {
+    "id": 82,
+    "area": "Medicina Interna - Cardiología",
+    "pregunta": "[Caso Clínico #82] En relación con el manejo de IAM de cara inferior, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Arteria Coronaria Derecha (ACD)",
+      "B": "Infarto de Ventrículo Derecho e Hipotensión",
+      "C": "Líquidos IV y evitar nitratos/diuréticos",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "En IAM de cara inferior con hipotensión, tomar derivaciones derechas (V3R-V4R) y expandir volumen con cristaloides.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en IAM de cara inferior."
+  },
+  {
+    "id": 83,
+    "area": "Medicina Interna - Cardiología",
+    "pregunta": "[Caso Clínico #83] En relación con el manejo de Fibrilación Auricular con respuesta ventricular rápida e inestabilidad hemodinámica, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Cardioversión eléctrica sincronizada",
+      "B": "Amiodarona IV",
+      "C": "Betabloqueadores VO",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "Paciente inestable hemodinámicamente por taquiarritmia requiere cardioversión eléctrica sincronizada de emergencia.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Fibrilación Auricular con respuesta ventricular rápida e inestabilidad hemodinámica."
+  },
+  {
+    "id": 84,
+    "area": "Medicina Interna - Endocrinología",
+    "pregunta": "[Caso Clínico #84] En relación con el manejo de Cetoacidosis Diabética (CAD), paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Rehidratación con Solución Salina 0.9%",
+      "B": "Insulina cristalina en bolo alto",
+      "C": "Bicarbonato de Sodio de rutina",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "El manejo inicial prioritario en CAD es la hidratación venosa agresiva antes de administrar insulina.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Cetoacidosis Diabética (CAD)."
+  },
+  {
+    "id": 85,
+    "area": "Medicina Interna - Endocrinología",
+    "pregunta": "[Caso Clínico #85] En relación con el manejo de Estado Hiperosmolar Hiperglucémico (EHH), paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Osmolaridad sérica efectiva > 320 mOsm/kg y glucemia > 600 mg/dL",
+      "B": "Acidosis metabólica severa con anión GAP elevado",
+      "C": "Cetonuria masiva ++++",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "El EHH se caracteriza por hiperglucemia severa e hiperosmolaridad con ausencia o mínima cetoacidosis.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Estado Hiperosmolar Hiperglucémico (EHH)."
+  },
+  {
+    "id": 86,
+    "area": "Medicina Interna - Neumología",
+    "pregunta": "[Caso Clínico #86] En relación con el manejo de Crisis de Asma Severa, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Beta-2 agonistas de acción corta (SABA) + Corticoides sistémicos",
+      "B": "Antibióticos de amplio espectro",
+      "C": "Sedación temprana",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "El pilar de la crisis asmática severa es SABA nebulizado/inhalado combinado con corticoide sistémico temprano.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Crisis de Asma Severa."
+  },
+  {
+    "id": 87,
+    "area": "Medicina Interna - Neumología",
+    "pregunta": "[Caso Clínico #87] En relación con el manejo de Exacerbación de EPOC Anthonisen I, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Iniciar antibioticoterapia empírica (ej. Amoxicilina/Clavulanato o Macrólido)",
+      "B": "Solo aumentar dosis de inhaladores",
+      "C": "Oxigenoterapia a alto flujo",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "El tipo Anthonisen I (aumento de disnea, volumen y purulencia del esputo) indica indicación clara de antibiótico.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Exacerbación de EPOC Anthonisen I."
+  },
+  {
+    "id": 88,
+    "area": "Medicina Interna - Infectología",
+    "pregunta": "[Caso Clínico #88] En relación con el manejo de Neumonía Adquirida en la Comunidad (NAC) - CURB-65 = 3 puntos, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Hospitalización en Sala General o UCI según criterios de ATS/IDSA",
+      "B": "Manejo ambulatorio con amoxicilina",
+      "C": "Alta con azitromicina sola",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "Un puntaje de CURB-65 ≥ 2 a 3 indica neumonía moderada a severa que requiere manejo hospitalario.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Neumonía Adquirida en la Comunidad (NAC) - CURB-65 = 3 puntos."
+  },
+  {
+    "id": 89,
+    "area": "Medicina Interna - Infectología",
+    "pregunta": "[Caso Clínico #89] En relación con el manejo de Sepsis / Choque Séptico, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Reanimación con cristaloides 30 mL/kg en las primeras 3 horas + Antibiótico de amplio espectro en la 1ra hora",
+      "B": "Iniciar vasopresores antes de líquidos",
+      "C": "Corticoides a dosis altas",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "El paquete de la primera hora en sepsis exige toma de hemocultivos, antibiótico de amplio espectro y cristaloides a 30 mL/kg.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Sepsis / Choque Séptico."
+  },
+  {
+    "id": 90,
+    "area": "Medicina Interna - Gastroenterología",
+    "pregunta": "[Caso Clínico #90] En relación con el manejo de Hemorragia Digestiva Alta (HDA) variceal, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Somatostatina / Octreótido IV + Endoscopia digestiva en primeras 12-24 horas",
+      "B": "Laparotomía exploradora de urgencia",
+      "C": "Bolo de vasopresina pura",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "En sospecha de sangrado por várices esofágicas en cirróticos, se inicia vasopresor esplácnico (terlipresina u octreótido) e IBPs.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Hemorragia Digestiva Alta (HDA) variceal."
+  },
+  {
+    "id": 91,
+    "area": "Medicina Interna - Gastroenterología",
+    "pregunta": "[Caso Clínico #91] En relación con el manejo de Encefalopatía Hepática, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Lactulosa vía oral / enema + buscar y tratar factor desencadenante",
+      "B": "Restricción severa de proteínas en la dieta",
+      "C": "Neomicina como primera línea aislada",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "La lactulosa disminuye la absorción de amonio entérico y es la primera línea junto a la identificación del gatillo (ej. infección, sangrado).",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Encefalopatía Hepática."
+  },
+  {
+    "id": 92,
+    "area": "Medicina Interna - Nefrología",
+    "pregunta": "[Caso Clínico #92] En relación con el manejo de Hiperkalemia Severa (K > 6.5 mEq/L) con cambios electrocardiográficos (ondas T picudas / ensanchamiento QRS), paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Gluconato de Calcio IV 10% para estabilización de membrana miocárdica",
+      "B": "Furosemida IV únicamente",
+      "C": "Resinas de intercambio iónico a dosis alta",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "Ante cambios electrocardiográficos por hiperkalemia, la prioridad inmediata es el Gluconato de Calcio para proteger el corazón.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Hiperkalemia Severa (K > 6.5 mEq/L) con cambios electrocardiográficos (ondas T picudas / ensanchamiento QRS)."
+  },
+  {
+    "id": 93,
+    "area": "Medicina Interna - Nefrología",
+    "pregunta": "[Caso Clínico #93] En relación con el manejo de Síndrome Nefrótico, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Proteinuria en rango nefrótico (> 3.5 g/24h), hipoalbuminemia, edema y dislipidemia",
+      "B": "Hematuria dismórfica e hipertensión severa como rasgo dominante",
+      "C": "Oliguria aguda con cilindros hemáticos",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "La triada clásica del Síndrome Nefrótico es proteinuria masiva, hipoalbuminemia y edema.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Síndrome Nefrótico."
+  },
+  {
+    "id": 94,
+    "area": "Medicina Interna - Reumatología",
+    "pregunta": "[Caso Clínico #94] En relación con el manejo de Artritis Gotosa Aguda, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "AINEs a dosis altas o Colchicina o Corticoides intraarticulares/sistémicos",
+      "B": "Iniciar Alopurinol inmediatamente a dosis máxima",
+      "C": "Aspirina a dosis bajas",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "Durante el ataque agudo de gota NO se debe iniciar ni modificar la dosis de Alopurinol para evitar fluctuaciones del ácido úrico.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Artritis Gotosa Aguda."
+  },
+  {
+    "id": 95,
+    "area": "Medicina Interna - Reumatología",
+    "pregunta": "[Caso Clínico #95] En relación con el manejo de Lupus Eritematoso Sistémico (LES), paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Anticuerpos Anti-DNAdc y Anti-Smith (altamente específicos)",
+      "B": "Anti-RO y Anti-LA únicamente",
+      "C": "Anticuerpos Anti-centrómero",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "Los anticuerpos Anti-DNAdc correlacionan con actividad lúpica (especialmente nefritis) y el Anti-Smith es el más específico.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Lupus Eritematoso Sistémico (LES)."
+  },
+  {
+    "id": 96,
+    "area": "Medicina Interna - Hematología",
+    "pregunta": "[Caso Clínico #96] En relación con el manejo de Anemia Ferropénica, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Ferritina sérica disminuida (< 30 ng/mL)",
+      "B": "Transferrina disminuida con ferritina alta",
+      "C": "Volumen Corpuscular Medio (VCM) > 100 fL",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "La ferritina sérica baja es el marcador más sensible y específico para diagnosticar deficiencia de hierro.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Anemia Ferropénica."
+  },
+  {
+    "id": 97,
+    "area": "Pediatría - Infectología",
+    "pregunta": "[Caso Clínico #97] En relación con el manejo de Enfermedad de Kawasaki, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Inmunoglobulina IV (2 g/kg) + Ácido Acetilsalicílico (Aspirina)",
+      "B": "Corticoides a dosis altas solos",
+      "C": "Antibióticos de amplio espectro",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "El tratamiento oportuno con Inmunoglobulina IV antes del día 10 reduce drásticamente el riesgo de aneurismas coronarios.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Enfermedad de Kawasaki."
+  },
+  {
+    "id": 98,
+    "area": "Pediatría - Urgencias",
+    "pregunta": "[Caso Clínico #98] En relación con el manejo de Crup Laríngeo (Laringotraqueobronquitis Aguda), paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Dexametasona 0.6 mg/kg VO/IM dosis única",
+      "B": "Salbutamol nebulizado de rutina",
+      "C": "Antibióticos macrólidos",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "La dexametasona en dosis única mejora los síntomas y reduce reingresos en crup leve, moderado y severo.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Crup Laríngeo (Laringotraqueobronquitis Aguda)."
+  },
+  {
+    "id": 99,
+    "area": "Pediatría - Neumología",
+    "pregunta": "[Caso Clínico #99] En relación con el manejo de Bronquiolitis Aguda por VRS, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Medidas de soporte (Oxigenación si SatO2 < 92%, hidratación y aseo nasal)",
+      "B": "Nebulizaciones con Salbutamol",
+      "C": "Corticoides inhalados u orales",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "No hay evidencia que respalde el uso sistemático de broncodilatadores o corticoides en el primer episodio de bronquiolitis.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Bronquiolitis Aguda por VRS."
+  },
+  {
+    "id": 100,
+    "area": "Pediatría - Gastroenterología",
+    "pregunta": "[Caso Clínico #100] En relación con el manejo de Deshidratación Grado II (Moderada) por Gastroenteritis Aguda, paciente acude a urgencias evaluado por el equipo médico. ¿Cuál es la conducta o hallazgo clave según las guías clínicas actuales?",
+    "opciones": {
+      "A": "Plan B: Terapia de Rehidratación Oral con SRO a baja osmolaridad (50-100 mL/kg en 4 horas)",
+      "B": "Plan C: Lactato de Ringer IV a 100 mL/kg en 3 horas",
+      "C": "Líquidos caseros como jugos azucarados",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "El Plan B de OMS utiliza Suero de Rehidratación Oral en consulta/urgencias bajo supervisión.",
+    "perla": "Recordar siempre el pilar terapéutico o diagnóstico en Deshidratación Grado II (Moderada) por Gastroenteritis Aguda."
+  }
+]
