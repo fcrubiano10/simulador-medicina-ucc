@@ -17,7 +17,7 @@ def cargar_banco():
 banco = cargar_banco()
 
 if banco:
-    st.title("🏥 Simulador de Admisión Medicina UCC")
+    st.title("🏥 Simulador de Admisión Medicina UCC - Si es la voluntad de Dios, te irá super bien <3")
 
     # Inicializar variables de estado
     if "preguntas" not in st.session_state:
